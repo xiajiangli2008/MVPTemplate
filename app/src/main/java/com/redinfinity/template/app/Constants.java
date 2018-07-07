@@ -7,8 +7,8 @@ package com.redinfinity.template.app;
 public class Constants {
 
     /** 服务器地址 */
-    //public static final String URL_PATH = "http://192.168.12.4:8001/";
-    public static final String URL_PATH = "http://120.76.176.155:8080/";
+    public static final String URL_PATH = "http://192.168.12.4:8001/";
+//    public static final String URL_PATH = "http://120.76.176.155:8080/";
 
     /** 测试服务器地址 **/
     public static final String TEST_URL_PATH = "http://172.16.0.37/";
